@@ -1,0 +1,1 @@
+python PyPersonalTrainer.py -m scan -o ../resumen_2021.xlsx -tf ../datos_2021 -sf ../excels_2021
